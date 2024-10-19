@@ -1,5 +1,6 @@
 const colaboradores = [
   "Jorge Luis",
+  "Luigui Mendoza",
   "Gustavo Morales"
 ];
 
