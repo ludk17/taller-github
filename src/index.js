@@ -1,7 +1,8 @@
 const colaboradores = [
   "Jorge Luis",
   "Luigui Mendoza",
-  "Gustavo Morales"
+  "Gustavo Morales",
+  "Colaborador UPN"
 ];
 
 colaboradores.forEach((colaborador) => {
